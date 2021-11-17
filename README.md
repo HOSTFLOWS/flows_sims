@@ -44,11 +44,20 @@ For the different simulations we will also need different set of metrics to prop
 ___
 ## Running the notebooks
 
-To run the notebooks it is recommended to create an environment first (e.g., using Anaconda):
+To run the notebooks it is recommended to create an environment first (e.g., using Anaconda) and activate it:
 
 ```code
 conda create -n hf_sims pip
+conda activate hf_sims
 ```
+
+and then install the rest of the requirements (except for SNooPy --  see below):
+
+```code
+pip install -r requirements.txt
+```
+
+This will alow you to deply the jupyter book as well.
 
 To install the latest version of SNooPy (v2.6 at the momment), follow these commands:
 
@@ -58,3 +67,5 @@ cd snpy
 git checkout gen3
 python setup.py install
 ```
+
+
