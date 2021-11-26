@@ -1,3 +1,4 @@
 # fit results occupy too much space
 *.snpy
 */*.snpy
+sim_fits/*
