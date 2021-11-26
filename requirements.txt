@@ -1,4 +1,5 @@
 jupyterlab
+pandas
 george
 jupyter-book
 ghp-import
