@@ -1,5 +1,6 @@
 jupyterlab
 pandas
 george
+opencv-python
 jupyter-book
 ghp-import
