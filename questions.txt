@@ -1,7 +1,0 @@
-Are we only going to use max_model? Why?
-
-Why does the fits sometimes fail? E.g.: 
-RuntimeError: Error: Covariance Matrix is singular. Either two or more parameters are degenerate or the model has become insensitive to one or more parameters.
-RuntimeError: All weights for filter H are zero. The fitter is in a part of parameter space where the model is not valid or there is no useful data.
-
-Does it affect the fits using colour-stretch or dm15?
