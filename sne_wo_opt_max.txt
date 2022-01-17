@@ -1,74 +1,74 @@
-ASAS15dd 	no-peak-coverage
-SN2008hu 	no-peak-coverage
-SN2013bc 	fit-failed
-SN2006ev 	no-peak-coverage
-SN2013hn 	no-peak-coverage
-SN2008ff 	no-peak-coverage
-SN2008bt 	no-peak-coverage
-SN2013az 	no-peak-coverage
-ASAS15al 	no-peak-coverage
-SN2007ux 	no-peak-coverage
-SN2006br 	no-peak-coverage
-PS1-14ra 	no-peak-coverage
-SN2014dn 	no-peak-coverage
-CSP13N 	no-peak-coverage
-LSQ12fuk 	no-peak-coverage
-SN2008cf 	no-peak-coverage
-ASAS15fr 	no-peak-coverage
-SN2007as 	no-peak-coverage
-SN2008cc 	no-peak-coverage
-LSQ13pf 	no-peak-coverage
-PTF11pra 	no-peak-coverage
-SN2008bq 	no-peak-coverage
-ASAS14jg 	no-peak-coverage
-SN2013ay 	no-peak-coverage
-SN2014ao 	no-peak-coverage
-SN2007bm 	no-peak-coverage
-SN2007hj 	no-peak-coverage
-LSQ11bk 	no-peak-coverage
-SN2005am 	no-peak-coverage
-SN2007nq 	no-peak-coverage
-SN2007ai 	no-peak-coverage
-SN2007N 	no-peak-coverage
-SN2008C 	no-peak-coverage
-SN2013as 	no-peak-coverage
-SN2014Z 	no-peak-coverage
-SN2012ar 	no-peak-coverage
-SN2012aq 	no-peak-coverage
-ASAS15cb 	no-peak-coverage
-SN2008gg 	no-peak-coverage
-SN2006eq 	no-peak-coverage
-SN2014ba 	fit-failed
-SN2008fl 	no-peak-coverage
-SN2008O 	no-peak-coverage
-LSQ14gfb 	no-peak-coverage
-SN2007ax 	fit-failed
-SN2006ej 	no-peak-coverage
-CSP14abn 	no-peak-coverage
-SN2008bi 	fit-failed
-SN2005al 	no-peak-coverage
-SN2008fw 	no-peak-coverage
-SN2007so 	no-peak-coverage
-LSQ12hxx 	no-peak-coverage
-SN2008fr 	no-peak-coverage
-PS1-13eao 	no-peak-coverage
-SN2008bd 	no-peak-coverage
-LSQ12hno 	no-peak-coverage
-SN2009ag 	no-peak-coverage
-ASAS15as 	no-peak-coverage
-SN2006is 	no-peak-coverage
-SN2006os 	no-peak-coverage
-CSP14aar 	no-peak-coverage
-SN2007al 	fit-failed
-LSQ12btn 	no-peak-coverage
-SN2011iy 	no-peak-coverage
-LSQ15bv 	no-peak-coverage
-SN2006bd 	no-peak-coverage
-ASAS14lq 	no-peak-coverage
-SN2007sr 	no-peak-coverage
-PTF14aje 	no-peak-coverage
-CSP12G 	no-peak-coverage
-SN2007st 	no-peak-coverage
-SN2006hb 	no-peak-coverage
-SN2008fu 	no-peak-coverage
-SN2008R 	no-peak-coverage
+ASAS15dd
+SN2008hu
+SN2013bc
+SN2006ev
+SN2013hn
+SN2008ff
+SN2008bt
+SN2013az
+ASAS15al
+SN2007ux
+SN2006br
+PS1-14ra
+SN2014dn
+CSP13N
+LSQ12fuk
+SN2008cf
+ASAS15fr
+SN2007as
+SN2008cc
+LSQ13pf
+PTF11pra
+SN2008bq
+ASAS14jg
+SN2013ay
+SN2014ao
+SN2007bm
+SN2007hj
+LSQ11bk
+SN2005am
+SN2007nq
+SN2007ai
+SN2007N
+SN2008C
+SN2013as
+SN2014Z
+SN2012ar
+SN2012aq
+ASAS15cb
+SN2008gg
+SN2006eq
+SN2014ba
+SN2008fl
+SN2008O
+LSQ14gfb
+SN2007ax
+SN2006ej
+CSP14abn
+SN2008bi
+SN2005al
+SN2008fw
+SN2007so
+LSQ12hxx
+SN2008fr
+PS1-13eao
+SN2008bd
+LSQ12hno
+SN2009ag
+ASAS15as
+SN2006is
+SN2006os
+CSP14aar
+SN2007al
+LSQ12btn
+SN2011iy
+LSQ15bv
+SN2006bd
+ASAS14lq
+SN2007sr
+PTF14aje
+CSP12G
+SN2007st
+SN2006hb
+SN2008fu
+SN2008R
