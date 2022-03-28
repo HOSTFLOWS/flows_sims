@@ -1,6 +1,8 @@
 # fit results occupy too much space
 *.snpy
 */*.snpy
+reference_fits_max_model/
+reference_fits_EBV_model2/
 
 # track only the metrics, otherwise, it is too much space
 sim_fits*/*
