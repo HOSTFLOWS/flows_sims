@@ -1,6 +1,7 @@
-matplotlib
 pandas
 george
 astropy
+peakutils
+matplotlib
 jupyterlab
 opencv-python

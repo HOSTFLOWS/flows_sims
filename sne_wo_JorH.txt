@@ -12,7 +12,6 @@ SN2005hj 	g-r-i-u-V-B-Y-J
 SN2006ef 	g-r-i-u-V-B
 LSQ12hvj 	Y-H-J-B-V-r-i
 SN2008bz 	V-B-u-g-r-i-J-Y
-CSP13N 	r-i-V-B-Y-H-J
 PTF14aaf 	r-i-V-B
 LSQ14mc 	B-V-r-i-Y
 LSQ12fuk 	i-r-V-B-Y-H-J
@@ -29,7 +28,6 @@ LSQ14ahc 	Y-H-J-i-r-V-B
 LSQ14jp 	B-V-r-i-Y-H-J
 SN2008go 	Y-V-B-u-g-r-i
 ASAS14kq 	g-r-i-u-V-B-Y-J
-SN2014dl 	r-i-V-B-Y-H-J
 LSQ14ghv 	B-V-r-i-Y-H-J
 SN2013ad 	B-Y-V-r-i-J-H
 CSP13aad 	V-i-r-g-B-Y-J
@@ -48,7 +46,6 @@ LSQ13cwp 	r-i-B-V-Y-J-H
 SN2005W 	V-B-u-g-r-i
 LSQ14gfn 	Y-H-J-r-i-V-B
 LSQ12fxd 	Y-H-J-i-r-V-B-u
-CSP14ade 	r-i-V-B-Y-J
 LSQ14q 	B-V-r-i-Y
 LSQ13dqh 	B-V-r-i-Y
 PTF13efe 	B-V-r-i-Y-H-J
@@ -92,7 +89,6 @@ PTF11ppn 	Y-V-B-i-r-g-J
 LSQ12hnr 	i-r-V-B-Y
 LSQ14ba 	V-B-r-i-Y-J-H
 PTF13dym 	B-V-r-i-Y-J-H
-LSQ12gdj 	i-r-V-B-Y-H-J
 LSQ12ca 	g-u-r-i-B-V
 LSQ12blp 	g-r-i-Y-J
 LSQ14gfb 	r-V-B-H-J-Y-i
@@ -120,8 +116,6 @@ SN2012ij 	i-r-g-u-V-B
 SN2013hh 	V-B-g-r-i-u
 LSQ12hno 	V-B-r-i-Y-H-J
 CSP13aaf 	i-r-V-B-J-Y
-CSP13Z 	Y-J-r-i-V-B
-CSP14acy 	B-V-r-i-Y-J
 CSP13aaq 	B-V-r-i-Y-J
 CSP12J 	i-r-V-B-u-g
 CSP14aar 	r-i-V-B-Y-H-J
