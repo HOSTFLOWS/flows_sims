@@ -1,7 +1,6 @@
 # fit results occupy too much space
 *.snpy
 */*.snpy
-!reference_fits*/*.snpy
 
 # track only the metrics, otherwise, it is too much space
 sim_fits*/*
