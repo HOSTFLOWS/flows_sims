@@ -1,6 +1,6 @@
-jupyterlab
+matplotlib
 pandas
 george
+astropy
+jupyterlab
 opencv-python
-jupyter-book
-ghp-import
