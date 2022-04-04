@@ -1,5 +1,8 @@
 pandas
 george
+emcee
+tqdm
+corner
 astropy
 peakutils
 matplotlib
