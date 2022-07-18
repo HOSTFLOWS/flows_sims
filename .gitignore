@@ -8,3 +8,6 @@ fits_csp/
 # track only the metrics, otherwise, it is too much space
 sim_fits*/*
 !sim_fits*/*/*.csv
+
+# there is private data
+csp_data/*snpy.txt
