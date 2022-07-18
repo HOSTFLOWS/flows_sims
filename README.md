@@ -32,10 +32,24 @@ python setup.py install
 
 ## Citation
 
-If you make use of these scripts or the analysis, please cite the following paper:
+If you make use of these scripts or the analysis, please cite the following paper: https://ui.adsabs.harvard.edu/abs/2022arXiv220704780M/abstract 
 
 ```
-Coming soon...
+@ARTICLE{2022arXiv220704780M,
+       author = {{M{\"u}ller-Bravo}, T.~E. and {Galbany}, L. and {Karamehmetoglu}, E. and {Stritzinger}, M. and {Burns}, C. and {Phan}, K. and {I{\'a}{\~n}ez Ferres}, A. and {Anderson}, J.~P. and {Ashall}, C. and {Baron}, E. and {Hoeflich}, P. and {Hsiao}, E.~Y. and {de Jaeger}, T. and {Kumar}, S. and {Lu}, J. and {Phillips}, M.~M. and {Shahbandeh}, M. and {Suntzeff}, N. and {Uddin}, S.~A.},
+        title = "{Testing the Homogeneity of Type Ia Supernovae in the Near-Infrared for Accurate Distance Estimations}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = 2022,
+        month = jul,
+          eid = {arXiv:2207.04780},
+        pages = {arXiv:2207.04780},
+archivePrefix = {arXiv},
+       eprint = {2207.04780},
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2022arXiv220704780M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
 ```
 
 
