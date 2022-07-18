@@ -11,3 +11,4 @@ sim_fits*/*
 
 # there is private data
 csp_data/*snpy.txt
+reference_fits/*.snpy
